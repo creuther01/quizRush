@@ -1,0 +1,55 @@
+.button {
+    padding: 10px 20px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.btn-wrong {
+    background-color: #FF4136;
+    color: white;
+}
+
+.btn-success {
+    background-color: #2ECC40;
+    color: white;
+}
+
+.divResult {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #cbcbcb;
+}
+
+
+body {
+    background-image: url("../images/classe.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+}
+
+
+.containerQuiz {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 4rem;
+    margin-right: 4rem;
+    padding: 1rem;
+    border: 1px solid #f0f0f0;
+    border-radius: 5px;
+    background-color: #ffffff;
+}
+
+.header {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+}
