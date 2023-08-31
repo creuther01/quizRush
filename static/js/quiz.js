@@ -168,8 +168,6 @@ document.getElementById("next").addEventListener("click", function() {
         // Hide the next button
         document.getElementById("next").style.display = "none";
 
-        // Display the restart button
-        document.getElementById("restart").style.display = "block";
 
     } else {
         // Load the next question
